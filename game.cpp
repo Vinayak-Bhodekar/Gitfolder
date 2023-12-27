@@ -1,7 +1,6 @@
 #include<iostream>
 #include<vector>
 #include<conio.h>
-//game.
 using namespace std;
 class TTT{
     vector<char> tem = {'1','2','3','4','5','6','7','8','9'};
